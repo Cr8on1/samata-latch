@@ -1,0 +1,10 @@
+seed,L,vS,Wg_vS,V_vS,OC_vS,vSo,Wg_vSo,V_vSo,OC_vSo,vSc,Wg_vSc,V_vSc,OC_vSc,vSoc,Wg_vSoc,V_vSoc,OC_vSoc,chance
+3,0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,16,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,32,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,64,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,96,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,128,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,192,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,224,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
+3,256,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,nan,nan,nan,nan,nan,nan,nan,nan,0.125
