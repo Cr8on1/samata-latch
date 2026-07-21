@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper below."
+title: "The Samata Latch — Replication Package (Toy Arc)"
+abstract: >-
+  From-scratch numpy toy experiments (exp01–exp08) reproducing the constructive
+  toy-scale result of "The Samata Latch: Designed Internal State for In-Context
+  Binding Integrity": a write-once latch with symbolic readout that holds zero
+  breaches across 72 injection cells in 3/3 seeds at 4.4–8.8x less training.
+type: software
+authors:
+  - family-names: Baxter
+    given-names: Creighton R.
+    affiliation: TICO AI LLC
+license: MIT
+keywords:
+  - transformer architecture
+  - in-context binding
+  - write-once internal state
+  - replication package
+references:
+  - type: article
+    title: "The Samata Latch: Designed Internal State for In-Context Binding Integrity"
+    authors:
+      - family-names: Baxter
+        given-names: Creighton R.
+        affiliation: TICO AI LLC
+    doi: 10.5281/zenodo.21464368
+    year: 2026
+    publisher:
+      name: Zenodo

@@ -1,0 +1,7 @@
+# GPU harness (run.py / model.py / smoke_test.py)
+torch>=2.0
+# CPU build (np_run.py / np_model.py)
+numpy>=1.24
+autograd>=1.6
+# plots
+matplotlib>=3.6

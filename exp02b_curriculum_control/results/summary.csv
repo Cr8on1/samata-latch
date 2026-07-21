@@ -1,0 +1,8 @@
+arm,seed,min_acc,max_acc,min_acc_trained_L<=64,all_trained_ge_0.75,binding_ge_0.75_some_L>=16
+v1c_15pct,1,0.208,0.432,0.208,False,False
+v1c_15pct,2,0.917,0.979,0.917,True,True
+v1c_15pct,3,0.224,0.401,0.302,False,False
+v1c_0pct_diag,1,0.302,0.458,0.375,False,False
+v1c_0pct_diag,2,0.943,1.0,0.974,True,True
+v1c_0pct_diag,3,0.312,0.578,0.318,False,False
+v1c_15pct_ext2443,2,0.99,1.0,0.99,True,True
